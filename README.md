@@ -1,4 +1,4 @@
-<h1> <p align="center"> Bem vindo(a) ao meu perfil do GitHub!</p> </h1>
+<h1> <p align="center"> ✨Bem vindo(a) ao meu perfil do GitHub!✨</p> </h1>
 </br>
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">

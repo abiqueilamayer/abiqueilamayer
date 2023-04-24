@@ -25,8 +25,9 @@
 </br>
 
 ### 📫Contatos:
-<a href="https://www.instagram.com/abiqueilamayer" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/abiqueilafmayer" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/abiqueilamayer" target="_blank"><img align="left" alt="Instagram" width="90px" src="https://img.shields.io/badge/-Instagram-red" />
+<a href="https://www.linkedin.com/in/abiqueilafmayer" target="_blank"><img align="left" alt="LinkedIn" width="80px" src="https://img.shields.io/badge/-LinkedIn-blue" />
+
   
 </br>
 </br>  

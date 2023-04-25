@@ -27,7 +27,7 @@
 ### 📫Contatos:
 <a href="https://www.instagram.com/abiqueilamayer" target="_blank"><img src="https://img.shields.io/badge/Instagram-grey?logo=instagram&logoColor=white&color=E4405F" target="_blank"></a>
 <a href = "mailto:abiqueilafmayer@gmail.com"><img src="https://img.shields.io/badge/E--mail-grey?logo=gmail&logoColor=white&color=D14836" target="_blank"></a>
-<a href="https://www.linkedin.com/in/abiqueilamayer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/abiqueilamayer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
   

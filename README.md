@@ -27,12 +27,18 @@
 ### 📫Contatos:
 <a href="https://www.instagram.com/abiqueilamayer" target="_blank"><img align="left" alt="Instagram" width="90px" src="https://img.shields.io/badge/-Instagram-red" />
 <a href="https://www.linkedin.com/in/abiqueilafmayer" target="_blank"><img align="left" alt="LinkedIn" width="80px" src="https://img.shields.io/badge/-LinkedIn-blue" />
-
   
 </br>
 </br>  
 
-
+<div>
+  <a href="https://github.com/abiqueilamayer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiqueilamayer&layout=compact&langs_count=7&theme=tokyonight" alt="Gráfico de linguagens de programação mais usadas por Abiqueila Mayer no GitHub"/>
+  </a>
+  <a href="https://github.com/abiqueilamayer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiqueilamayer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de atividades de Abiqueila Mayer no GitHub"/>
+  </a>
+</div>
           
           
 
